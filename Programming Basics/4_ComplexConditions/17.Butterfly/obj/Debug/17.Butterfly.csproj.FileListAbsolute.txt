@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\17.Butterfly\bin\Debug\17.Butterfly.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\17.Butterfly\bin\Debug\17.Butterfly.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\17.Butterfly\bin\Debug\17.Butterfly.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\17.Butterfly\obj\Debug\17.Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\17.Butterfly\obj\Debug\17.Butterfly.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\17.Butterfly\obj\Debug\17.Butterfly.pdb

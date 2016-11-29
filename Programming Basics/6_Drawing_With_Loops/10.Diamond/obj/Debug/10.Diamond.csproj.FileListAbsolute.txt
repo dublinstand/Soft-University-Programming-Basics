@@ -1,0 +1,6 @@
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\10.Diamond\bin\Debug\10.Diamond.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\10.Diamond\bin\Debug\10.Diamond.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\10.Diamond\bin\Debug\10.Diamond.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\10.Diamond\obj\Debug\10.Diamond.csprojResolveAssemblyReference.cache
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\10.Diamond\obj\Debug\10.Diamond.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\10.Diamond\obj\Debug\10.Diamond.pdb

@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\DayOfWeek\obj\Debug\09.DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.pdb

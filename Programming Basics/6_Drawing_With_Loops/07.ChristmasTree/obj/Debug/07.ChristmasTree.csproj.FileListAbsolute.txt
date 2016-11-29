@@ -1,0 +1,6 @@
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\07.ChristmasTree\bin\Debug\07.ChristmasTree.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\07.ChristmasTree\obj\Debug\07.ChristmasTree.csprojResolveAssemblyReference.cache
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\07.ChristmasTree\obj\Debug\07.ChristmasTree.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\07.ChristmasTree\obj\Debug\07.ChristmasTree.pdb

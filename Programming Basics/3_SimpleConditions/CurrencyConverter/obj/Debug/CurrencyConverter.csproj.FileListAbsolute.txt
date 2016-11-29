@@ -1,0 +1,9 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.FormConverter.resources
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

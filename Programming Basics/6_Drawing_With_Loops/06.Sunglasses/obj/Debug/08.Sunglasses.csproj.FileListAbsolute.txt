@@ -1,0 +1,6 @@
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.Sunglasses\bin\Debug\06.Sunglasses.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.Sunglasses\bin\Debug\06.Sunglasses.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.Sunglasses\bin\Debug\06.Sunglasses.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.Sunglasses\obj\Debug\08.Sunglasses.csprojResolveAssemblyReference.cache
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.Sunglasses\obj\Debug\06.Sunglasses.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.Sunglasses\obj\Debug\06.Sunglasses.pdb

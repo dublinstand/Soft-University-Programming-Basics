@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SameNumbers\bin\Debug\SameNumbers.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SameNumbers\bin\Debug\SameNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SameNumbers\bin\Debug\SameNumbers.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SameNumbers\obj\Debug\SameNumbers.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SameNumbers\obj\Debug\SameNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SameNumbers\obj\Debug\SameNumbers.pdb

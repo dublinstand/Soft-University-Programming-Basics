@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

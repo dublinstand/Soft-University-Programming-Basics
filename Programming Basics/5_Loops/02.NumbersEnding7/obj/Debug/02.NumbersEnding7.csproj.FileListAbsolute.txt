@@ -1,0 +1,5 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\02.NumbersEnding7\bin\Debug\02.NumbersEnding7.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\02.NumbersEnding7\bin\Debug\02.NumbersEnding7.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\02.NumbersEnding7\bin\Debug\02.NumbersEnding7.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\02.NumbersEnding7\obj\Debug\02.NumbersEnding7.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\02.NumbersEnding7\obj\Debug\02.NumbersEnding7.pdb

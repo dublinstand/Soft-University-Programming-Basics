@@ -1,0 +1,5 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\BonusPoints\bin\Debug\BonusPoints.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\BonusPoints\bin\Debug\BonusPoints.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\BonusPoints\bin\Debug\BonusPoints.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\BonusPoints\obj\Debug\BonusPoints.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\BonusPoints\obj\Debug\BonusPoints.pdb

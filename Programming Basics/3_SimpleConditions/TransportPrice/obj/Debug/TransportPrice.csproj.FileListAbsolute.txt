@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\TransportPrice\bin\Debug\TransportPrice.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\TransportPrice\bin\Debug\TransportPrice.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\TransportPrice\bin\Debug\TransportPrice.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\TransportPrice\obj\Debug\TransportPrice.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\TransportPrice\obj\Debug\TransportPrice.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\TransportPrice\obj\Debug\TransportPrice.pdb

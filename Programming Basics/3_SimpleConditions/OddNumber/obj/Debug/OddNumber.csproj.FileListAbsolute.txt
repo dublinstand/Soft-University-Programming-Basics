@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\OddNumber\bin\Debug\OddNumber.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\OddNumber\bin\Debug\OddNumber.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\OddNumber\bin\Debug\OddNumber.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\OddNumber\obj\Debug\OddNumber.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\OddNumber\obj\Debug\OddNumber.pdb

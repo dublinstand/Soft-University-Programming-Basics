@@ -1,0 +1,6 @@
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\11.DrawFort\bin\Debug\11.DrawFort.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\11.DrawFort\bin\Debug\11.DrawFort.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\11.DrawFort\bin\Debug\11.DrawFort.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\11.DrawFort\obj\Debug\11.DrawFort.csprojResolveAssemblyReference.cache
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\11.DrawFort\obj\Debug\11.DrawFort.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\11.DrawFort\obj\Debug\11.DrawFort.pdb

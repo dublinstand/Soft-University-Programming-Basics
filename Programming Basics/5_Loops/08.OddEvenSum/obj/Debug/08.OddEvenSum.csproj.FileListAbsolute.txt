@@ -1,0 +1,5 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.pdb

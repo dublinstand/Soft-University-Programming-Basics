@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.pdb

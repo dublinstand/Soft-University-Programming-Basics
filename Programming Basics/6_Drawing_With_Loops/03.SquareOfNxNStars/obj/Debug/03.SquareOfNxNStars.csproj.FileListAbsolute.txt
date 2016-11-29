@@ -1,0 +1,5 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\03.SquareOfNxNStars\bin\Debug\03.SquareOfNxNStars.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\03.SquareOfNxNStars\bin\Debug\03.SquareOfNxNStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\03.SquareOfNxNStars\bin\Debug\03.SquareOfNxNStars.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\03.SquareOfNxNStars\obj\Debug\03.SquareOfNxNStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\03.SquareOfNxNStars\obj\Debug\03.SquareOfNxNStars.pdb

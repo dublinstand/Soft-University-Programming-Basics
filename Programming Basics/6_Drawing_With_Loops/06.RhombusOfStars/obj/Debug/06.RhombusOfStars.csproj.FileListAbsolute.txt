@@ -1,0 +1,11 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csprojResolveAssemblyReference.cache
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb

@@ -1,0 +1,5 @@
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\08_1.Sunglasses2\bin\Debug\08_1.Sunglasses2.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\08_1.Sunglasses2\bin\Debug\08_1.Sunglasses2.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\08_1.Sunglasses2\bin\Debug\08_1.Sunglasses2.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\08_1.Sunglasses2\obj\Debug\08_1.Sunglasses2.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\08_1.Sunglasses2\obj\Debug\08_1.Sunglasses2.pdb

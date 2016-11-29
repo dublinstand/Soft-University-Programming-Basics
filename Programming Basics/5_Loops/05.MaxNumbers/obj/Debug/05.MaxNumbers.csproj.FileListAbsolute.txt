@@ -1,0 +1,5 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\05.MaxNumbers\bin\Debug\05.MaxNumbers.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\05.MaxNumbers\bin\Debug\05.MaxNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\05.MaxNumbers\bin\Debug\05.MaxNumbers.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\05.MaxNumbers\obj\Debug\05.MaxNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\05.MaxNumbers\obj\Debug\05.MaxNumbers.pdb

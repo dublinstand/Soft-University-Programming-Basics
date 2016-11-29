@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\PipesInThePool\bin\Debug\PipesInThePool.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\PipesInThePool\bin\Debug\PipesInThePool.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\PipesInThePool\bin\Debug\PipesInThePool.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\PipesInThePool\obj\Debug\PipesInThePool.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\PipesInThePool\obj\Debug\PipesInThePool.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\PipesInThePool\obj\Debug\PipesInThePool.pdb

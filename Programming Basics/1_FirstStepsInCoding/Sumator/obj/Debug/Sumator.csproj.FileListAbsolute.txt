@@ -1,0 +1,9 @@
+c:\users\deyan\documents\visual studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.Form1.resources
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.pdb

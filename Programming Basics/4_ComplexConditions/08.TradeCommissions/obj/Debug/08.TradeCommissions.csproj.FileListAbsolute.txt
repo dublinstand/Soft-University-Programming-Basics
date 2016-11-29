@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\08.TradeCommissions\bin\Debug\08.TradeCommissions.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\08.TradeCommissions\bin\Debug\08.TradeCommissions.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\08.TradeCommissions\bin\Debug\08.TradeCommissions.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\08.TradeCommissions\obj\Debug\08.TradeCommissions.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\08.TradeCommissions\obj\Debug\08.TradeCommissions.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\08.TradeCommissions\obj\Debug\08.TradeCommissions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\11.Cinema\bin\Debug\11.Cinema.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\11.Cinema\bin\Debug\11.Cinema.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\11.Cinema\bin\Debug\11.Cinema.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\11.Cinema\obj\Debug\11.Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\11.Cinema\obj\Debug\11.Cinema.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\11.Cinema\obj\Debug\11.Cinema.pdb

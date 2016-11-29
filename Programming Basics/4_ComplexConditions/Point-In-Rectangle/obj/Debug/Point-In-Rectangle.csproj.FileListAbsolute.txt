@@ -1,0 +1,1 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\Point-In-Rectangle\bin\Debug\Point-In-Rectangle.exe.config

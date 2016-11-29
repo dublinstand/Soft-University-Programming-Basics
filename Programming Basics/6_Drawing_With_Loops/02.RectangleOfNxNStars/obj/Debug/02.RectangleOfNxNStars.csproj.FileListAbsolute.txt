@@ -1,0 +1,9 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\bin\Debug\02.RectangleOfNxNStars.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\bin\Debug\02.RectangleOfNxNStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\bin\Debug\02.RectangleOfNxNStars.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\bin\Debug\02.RectangleOfNxNStars.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.pdb

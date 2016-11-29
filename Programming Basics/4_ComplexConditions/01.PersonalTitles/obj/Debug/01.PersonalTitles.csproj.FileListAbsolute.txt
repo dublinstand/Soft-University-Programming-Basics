@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\01.PersonalTitles\bin\Debug\01.PersonalTitles.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\01.PersonalTitles\bin\Debug\01.PersonalTitles.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\01.PersonalTitles\bin\Debug\01.PersonalTitles.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.pdb

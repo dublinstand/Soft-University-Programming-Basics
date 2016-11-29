@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.pdb

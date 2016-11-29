@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SleepingCatTom\bin\Debug\SleepingCatTom.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SleepingCatTom\bin\Debug\SleepingCatTom.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SleepingCatTom\bin\Debug\SleepingCatTom.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SleepingCatTom\obj\Debug\SleepingCatTom.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SleepingCatTom\obj\Debug\SleepingCatTom.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\SleepingCatTom\obj\Debug\SleepingCatTom.pdb

@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Square\bin\Debug\Square.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Square\obj\Debug\Square.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Square\bin\Debug\Square.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Square\bin\Debug\Square.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Square\obj\Debug\Square.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\Square\obj\Debug\Square.pdb

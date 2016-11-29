@@ -1,0 +1,5 @@
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\12.StopSign\bin\Debug\12.StopSign.exe.config
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\12.StopSign\bin\Debug\12.StopSign.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\12.StopSign\bin\Debug\12.StopSign.pdb
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\12.StopSign\obj\Debug\12.StopSign.exe
+D:\training\SoftUni\C#\Programming Basics\ProgrammingBasics_6_Drawing_With_Loops\12.StopSign\obj\Debug\12.StopSign.pdb

@@ -1,0 +1,5 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\04.SumNumbers\bin\Debug\04.SumNumbers.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\04.SumNumbers\bin\Debug\04.SumNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\04.SumNumbers\bin\Debug\04.SumNumbers.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\04.SumNumbers\obj\Debug\04.SumNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\04.SumNumbers\obj\Debug\04.SumNumbers.pdb

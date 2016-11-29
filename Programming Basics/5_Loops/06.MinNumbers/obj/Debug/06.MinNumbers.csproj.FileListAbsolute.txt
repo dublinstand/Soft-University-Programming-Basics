@@ -1,0 +1,5 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\06.MinNumbers\bin\Debug\06.MinNumbers.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\06.MinNumbers\bin\Debug\06.MinNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\06.MinNumbers\bin\Debug\06.MinNumbers.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\06.MinNumbers\obj\Debug\06.MinNumbers.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\06.MinNumbers\obj\Debug\06.MinNumbers.pdb

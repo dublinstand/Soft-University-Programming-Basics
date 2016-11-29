@@ -1,0 +1,9 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\TriangleOfStars\bin\Debug\TriangleOfStars.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\TriangleOfStars\bin\Debug\TriangleOfStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\TriangleOfStars\bin\Debug\TriangleOfStars.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\TriangleOfStars\obj\Debug\TriangleOfStars.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\TriangleOfStars\obj\Debug\TriangleOfStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\Sumator\TriangleOfStars\obj\Debug\TriangleOfStars.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_1\TriangleOfStars\bin\Debug\TriangleOfStars.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_1\TriangleOfStars\obj\Debug\TriangleOfStars.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_1\TriangleOfStars\obj\Debug\TriangleOfStars.pdb

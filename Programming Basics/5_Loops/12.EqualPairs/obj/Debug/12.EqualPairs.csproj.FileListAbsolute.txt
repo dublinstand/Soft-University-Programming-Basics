@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\12.EqualPairs\bin\Debug\12.EqualPairs.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\12.EqualPairs\bin\Debug\12.EqualPairs.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\12.EqualPairs\bin\Debug\12.EqualPairs.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\12.EqualPairs\obj\Debug\12.EqualPairs.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\12.EqualPairs\obj\Debug\12.EqualPairs.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\12.EqualPairs\obj\Debug\12.EqualPairs.pdb

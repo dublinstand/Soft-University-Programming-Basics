@@ -1,0 +1,5 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\FindBiggerInteger\bin\Debug\FindBiggerInteger.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\FindBiggerInteger\bin\Debug\FindBiggerInteger.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\FindBiggerInteger\bin\Debug\FindBiggerInteger.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\FindBiggerInteger\obj\Debug\FindBiggerInteger.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_3_SimpleConditions\FindBiggerInteger\obj\Debug\FindBiggerInteger.pdb

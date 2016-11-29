@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\13.Histogram\bin\Debug\13.Histogram.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\13.Histogram\bin\Debug\13.Histogram.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\13.Histogram\bin\Debug\13.Histogram.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\13.Histogram\obj\Debug\13.Histogram.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\13.Histogram\obj\Debug\13.Histogram.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\13.Histogram\obj\Debug\13.Histogram.pdb

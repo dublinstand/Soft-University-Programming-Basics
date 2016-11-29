@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\15.SmartLily\bin\Debug\15.SmartLily.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\15.SmartLily\bin\Debug\15.SmartLily.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\15.SmartLily\bin\Debug\15.SmartLily.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\15.SmartLily\obj\Debug\15.SmartLily.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\15.SmartLily\obj\Debug\15.SmartLily.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\15.SmartLily\obj\Debug\15.SmartLily.pdb

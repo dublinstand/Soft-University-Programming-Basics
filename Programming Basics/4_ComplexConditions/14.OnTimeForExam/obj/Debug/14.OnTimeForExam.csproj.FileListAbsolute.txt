@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\14.OnTimeForExam\bin\Debug\14.OnTimeForExam.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\14.OnTimeForExam\bin\Debug\14.OnTimeForExam.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\14.OnTimeForExam\bin\Debug\14.OnTimeForExam.pdb
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\14.OnTimeForExam\obj\Debug\14.OnTimeForExam.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\14.OnTimeForExam\obj\Debug\14.OnTimeForExam.exe
+C:\Users\Deyan\Documents\Visual Studio 2015\Projects\ProgrammingBasics_4_ComplexConditions\14.OnTimeForExam\obj\Debug\14.OnTimeForExam.pdb

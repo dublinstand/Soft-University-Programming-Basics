@@ -1,0 +1,6 @@
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe.config
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.pdb
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.csprojResolveAssemblyReference.cache
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.exe
+c:\users\deyan\documents\visual studio 2015\Projects\ProgrammingBasics_5_Loops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.pdb
