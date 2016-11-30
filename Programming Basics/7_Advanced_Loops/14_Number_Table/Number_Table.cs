@@ -13,13 +13,13 @@ class Number_Table
             {
                 num = row + col + 1;
 
-                if (num > n )
+                if (num < n )
                 {
-                    num = 2 * n - num;
-                    Console.Write(num + " ");
+                    Console.Write(num + " ");                    
                 }
                 else
                 {
+                    num = 2 * n - num;
                     Console.Write(num + " ");
                 }
             }
