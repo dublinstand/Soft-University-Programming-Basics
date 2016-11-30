@@ -15,7 +15,8 @@ class Enter_Even_Number
                 n = int.Parse(Console.ReadLine());
                 if (n % 2 == 0)
                 {
-                    break;
+                    Console.WriteLine("Even number entered: {0}", n);
+                    return;
                 }
                 else
                 {
@@ -28,7 +29,6 @@ class Enter_Even_Number
             }
         }
 
-        Console.WriteLine("Even number entered: {0}", n);
     }
 }
 
