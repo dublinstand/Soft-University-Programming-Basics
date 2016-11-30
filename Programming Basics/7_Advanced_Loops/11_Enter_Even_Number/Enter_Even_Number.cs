@@ -4,7 +4,7 @@ class Enter_Even_Number
 {
     static void Main()
     {
-        int n = 0;        
+        int n;        
 
         while (true)
         {
